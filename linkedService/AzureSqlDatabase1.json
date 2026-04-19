@@ -1,0 +1,12 @@
+{
+	"name": "AzureSqlDatabase1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=udacityloremuttoni.database.windows.net;initial catalog=db_nycpayroll;user id=lore",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDJGNjBDRDg3LTRFNjAtNDhENi04OTJELTdFQzJCQ0Y5MjA3QV8wZmZmZmU1Yy0wMDRkLTRhNjctODM2MC05YjMxMjliMTMwMjkiDQp9"
+		}
+	}
+}

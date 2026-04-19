@@ -1,0 +1,9 @@
+{
+	"name": "udacity-adf",
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "632e5a4f-a0ff-49fb-ba12-d21ad36557ec",
+		"tenantId": "cf36141c-ddd7-45a7-b073-111f66d0b30c"
+	}
+}
